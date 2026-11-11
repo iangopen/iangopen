@@ -10,7 +10,6 @@ Engineering @ UC Berkeley '30. Building apps or tools that I envision or need.
 
 ### Also
 
-- [Metagame](https://github.com/iangopen/metagame): simulates one-shot simultaneous-move games against a stated crowd.
 - [Spatiasense](https://iangopen.github.io/spatiasense/): a browser game that trains spatial estimation.
 - [Entropy](https://github.com/iangopen/entropymod): a Minecraft mod that alternates random Blessings and Curses until you beat the Ender Dragon.
 
